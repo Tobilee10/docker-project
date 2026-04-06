@@ -1,0 +1,11 @@
+{
+    "name": "project5",
+    "version": "1.0.0",
+    "description": "A simple node.js application",
+    "main": "index.js",
+    "dependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    }
+
+}
